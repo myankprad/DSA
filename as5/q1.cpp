@@ -22,10 +22,10 @@ public:
         }
         for(i=0 ; i<original.size() ; i++)
         {
-            arr.pushBack(original[i]);
+            arr.push_back(original[i]);
             if(arr.size()==n)
             {
-                ans.pushBack(arr);
+                ans.push_back(arr);
                 arr.clear();
             }
         }

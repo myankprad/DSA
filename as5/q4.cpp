@@ -43,7 +43,7 @@ void findSwapValues(int A[], int n, int B[], int m)
 	cout << val1 << " " << val2;
 }
 
-// Driver code
+
 int main()
 {
 	int A[] = { 4, 1, 2, 1, 1, 2 };
