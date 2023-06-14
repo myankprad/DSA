@@ -2,10 +2,7 @@
 
 
 
-// Recursive Java program to find maximum
 
-// Function to return maximum element
-// using recursion
 function findMaxRec(A, n)
 {
 	
